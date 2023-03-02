@@ -1,2 +1,2 @@
 # geo_relative_position
-# Our code will be released after the paper is accepted
+# Our complete code and model parameters will be released after the paper is accepted and before the official conference.
