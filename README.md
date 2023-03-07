@@ -1,2 +1,2 @@
 # geo_relative_position
-# Our complete code and model parameters will be released after the paper is accepted and before the official conference.
+# We guarantee that the complete code and model parameters will be published within 2 months of receiving the paper
