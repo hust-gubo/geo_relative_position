@@ -2,9 +2,9 @@ import torch
 from torch import nn
 import numpy as np
 import torch.nn.functional as F
-class KLLoss(nn.Module):
+class ConLoss(nn.Module):
     def __init__(self):
-        super(KLLoss, self).__init__()
+        super(ConLoss, self).__init__()
         self.kldivloss = torch.nn.KLDivLoss(reduction = 'batchmean')
 
     def forward(self, inputs_q, inputs_k):
